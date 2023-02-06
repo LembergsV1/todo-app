@@ -64,3 +64,13 @@ textarea[type="message"]::placeholder {
     font-size: 1rem;
     background-color: pink;
 }
+
+.cancel-button{
+    height: 3rem;
+    width: 18rem;
+    margin: 0.5rem;
+    border-radius: 3px;
+    border: none;
+    font-size: 1rem;
+    background-color: pink;
+}
